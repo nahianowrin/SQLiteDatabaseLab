@@ -39,4 +39,5 @@ public class Contact {
     public void setPhoneNo(String phoneNo) {
         this.phoneNo = phoneNo;
     }
+    // new line
 }
