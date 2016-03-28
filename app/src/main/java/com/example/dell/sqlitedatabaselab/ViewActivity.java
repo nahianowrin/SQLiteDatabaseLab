@@ -42,6 +42,7 @@ public class ViewActivity extends AppCompatActivity {
         returnIntent.putExtra( "id", contactId );
         setResult( ListActivity.DELETE, returnIntent);
         finish();
+        ////test
     }
 
     public void editContact(View view) {
